@@ -34,5 +34,5 @@ Outside of work, I enjoy building fun AI projects, surfing, watching esports, an
 
 #
 
-### ✉️ Contact 
+### 🌐 Contact 
 <a href="mailto:drewscatterday@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://www.linkedin.com/in/drewscatterday/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://drewscatterday.com"><img src="https://img.shields.io/badge/portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a> 
