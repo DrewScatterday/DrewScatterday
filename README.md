@@ -1,4 +1,4 @@
-# 🌊 Drew Scatteday
+# 🌊 Hey, I'm Drew
 I'm a data science consultant at Esri working on deep learning and geospatial data analysis. I previously worked at SyGlass, a virtual reality startup, where I built applications in C++, C#, and Python
 
 Outside of work, I enjoy building fun AI projects, surfing, watching esports, and skateboarding
