@@ -1,7 +1,7 @@
 # 🌊 Hey, I'm Drew
-I'm a software engineer at Esri working with big data and geospatial analysis. I previously worked at SyGlass, a virtual reality startup, where I built applications in C++, C#, and Python
+I'm a software engineer at Cap Index working with geospatial and crime analysis data. I previously worked at Esri where I worked on solving big geospatial data problems.
 
-Outside of work, I enjoy building fun AI projects, surfing, watching esports, and skateboarding
+Outside of work, I enjoy building fun AI projects, surfing, watching esports, and martial arts. 
 
 #
 
